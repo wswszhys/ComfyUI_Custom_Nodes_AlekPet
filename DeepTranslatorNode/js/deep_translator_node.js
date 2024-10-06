@@ -73,7 +73,7 @@ function get_support_langs() {
     widget_to_translate = node.widgets[to_translate_index],
     // Placeholders
     placeholders = {
-      "GoogleTranslator,LingueeTranslator,MyMemoryTranslator,PonsTranslator":
+      "GoogleTranslator,LingueeTranslator,MyMemoryTranslator,MyMemoryTranslatorExt,PonsTranslator":
         "Authorization data:\nThis service does not require api_key or other information.",
       "ChatGptTranslator,YandexTranslator,MicrosoftTranslator,DeeplTranslator":
         "Authorization data:\napi_key=your_api_key",
