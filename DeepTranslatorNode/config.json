@@ -11,6 +11,11 @@
         "show_service": true,
         "help": "free"
       },
+      "MyMemoryTranslatorExt": {
+        "free_api": true,
+        "show_service": true,
+        "help": "free"
+      },
       "LingueeTranslator": {
         "free_api": true,
         "show_service": true,
